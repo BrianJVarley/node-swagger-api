@@ -2,6 +2,7 @@
 > Forked from  mjhea0/node-swagger-api.
 
 ǀ Details ǀ  Route  ǀ
+| ------------- |:-------------:| 
 ǀ API Description ǀ  http://localhost:3000/api-docs/  ǀ
 
 ## Build and Run
