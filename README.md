@@ -14,7 +14,11 @@
 2. npm start
 3. Browse to `http://localhost:3000/api/`
 
+
+
+-----------------------------------
 ## Troubleshooting
 
 error: `psql: command not found`
+
 solution: follow installation guide for postgresdb
