@@ -1,9 +1,11 @@
 > An example Epxress node.js service running with swagger-jsdoc to provide api description.
 > Forked from  mjhea0/node-swagger-api.
 
-ǀ Details ǀ  Route  ǀ
+
+| Details        | Route    |
 | ------------- |:-------------:| 
-ǀ API Description ǀ  http://localhost:3000/api-docs/  ǀ
+| API Description  |  http://localhost:3000/api-docs/ | 
+
 
 ## Build and Run
 
